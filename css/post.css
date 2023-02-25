@@ -1,0 +1,36 @@
+
+#bdy{
+    background: rgba(0,0,1,.2);
+               
+}
+.input-field {
+     margin-top: 10px;
+                
+}
+
+body {
+    background: url('../img/parallax/post.jpg')no-repeat 0px 0px;
+    background-size: cover;
+	min-height: 799px;
+}
+
+#contact{
+	margin-top: 50px;
+}
+
+#click-btn{
+	margin-top: 10px;
+}
+
+#contact{
+	margin-top: 50px;
+}
+
+#contact h2{
+	color: #047cb3;
+}
+
+#contact h4{
+	color: #fff;
+
+}
